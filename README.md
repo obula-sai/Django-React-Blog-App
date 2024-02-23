@@ -52,18 +52,27 @@ API Documentation is generated using the default tool provided by Django Rest Fr
 2. Navigate to the [localhost:8000/docs/](localhost:8000/docs/)
 
 ## Screenshots
-![screencapture-localhost-3000-2018-08-09-00_55_39](https://user-images.githubusercontent.com/29149191/43859744-2d0d54d6-9b6f-11e8-9bc9-c9f3a81c66af.png)
-=
-![screencapture-localhost-3000-dashboard-create-new-post-2018-08-09-00_51_40](https://user-images.githubusercontent.com/29149191/43859585-ac2a47b6-9b6e-11e8-8ec3-86aaa4d51bfe.png)
-=
+![Screenshot (408)](https://github.com/obula-sai/Django-React-Blog-App/assets/110908237/1f46f7e7-a587-4261-8d0e-718634ab61ff)
 
-![screencapture-localhost-3000-admin-panel-2018-08-09-00_51_25](https://user-images.githubusercontent.com/29149191/43859586-ac6b43ce-9b6e-11e8-993d-1f6c0b29ef2a.png)
-=
-![screencapture-localhost-3000-posts-view-consequat-mauris-nunc-congue-ni-2018-08-09-00_49_53](https://user-images.githubusercontent.com/29149191/43859587-acacdbfe-9b6e-11e8-8d99-835f4e18dfbc.png)
-=
-![screencapture-localhost-3000-login-2018-08-09-00_21_50](https://user-images.githubusercontent.com/29149191/43859588-aced0602-9b6e-11e8-9b6a-317ac39cf0ff.png)
-=
-![screencapture-localhost-3000-dashboard-2018-08-09-00_54_56](https://user-images.githubusercontent.com/29149191/43859745-2d61b030-9b6f-11e8-9c49-90e08c054647.png)
-=
-![screencapture-localhost-3000-register-2018-08-09-17_26_33](https://user-images.githubusercontent.com/29149191/43897437-9ae18b46-9bf9-11e8-8a20-ad5c5c628963.png)
+
+![Screenshot (409)](https://github.com/obula-sai/Django-React-Blog-App/assets/110908237/76bb3505-8928-4e7b-b9bc-adf53b2d53a1)
+
+
+![Screenshot (410)](https://github.com/obula-sai/Django-React-Blog-App/assets/110908237/9f63fd65-94da-479f-9527-056dd44e3550)
+
+
+
+![Screenshot (411)](https://github.com/obula-sai/Django-React-Blog-App/assets/110908237/b26a4c6b-6c67-4bfe-af54-649471731e01)
+
+![Screenshot (412)](https://github.com/obula-sai/Django-React-Blog-App/assets/110908237/1ea6efa7-6bbb-4afc-9c40-51f53ab6dc5a)
+![Screenshot (413)](https://github.com/obula-sai/Django-React-Blog-App/assets/110908237/3995b86a-727e-42c0-a8fd-709ecd7cc3a4)
+
+
+
+
+
+
+
+
+
 =
