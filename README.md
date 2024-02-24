@@ -49,14 +49,40 @@ Blogify is a full-stack web application built with Django and ReactJS, offering 
 ![Screenshot (414)](https://github.com/obula-sai/Django-React-Blogify-App/assets/110908237/2a2396e2-b840-410b-9b76-baeb8aa0fe9a)
 
 
+
+
+
+
 ![Screenshot (419)](https://github.com/obula-sai/Django-React-Blogify-App/assets/110908237/c65fc105-34ac-48d4-8bca-b339c0a290dc)
+
+
+
+
 
 
 ![Screenshot (420)](https://github.com/obula-sai/Django-React-Blogify-App/assets/110908237/a732b8a2-057d-4dfd-8cbb-a1ecb8a2fe5b)
 
+
+
+
+
+
+
 ![Screenshot (417)](https://github.com/obula-sai/Django-React-Blogify-App/assets/110908237/291510cb-a298-4202-acc9-0ef3aec2d507)
 
+
+
+
+
+
+
 ![Screenshot (423)](https://github.com/obula-sai/Django-React-Blogify-App/assets/110908237/e37a1120-296e-4ff3-b53a-46e856d40b99)
+
+
+
+
+
+
 
 ![Screenshot (425)](https://github.com/obula-sai/Django-React-Blogify-App/assets/110908237/ec0f04a6-c150-4cf8-87ec-2418f2978340)
 
