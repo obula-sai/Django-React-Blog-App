@@ -45,27 +45,19 @@ Blogify is a full-stack web application built with Django and ReactJS, offering 
 
 
 ## Screenshots
-![Screenshot (408)](https://github.com/obula-sai/Django-React-Blog-App/assets/110908237/1f46f7e7-a587-4261-8d0e-718634ab61ff)
+
+![Screenshot (414)](https://github.com/obula-sai/Django-React-Blogify-App/assets/110908237/2a2396e2-b840-410b-9b76-baeb8aa0fe9a)
 
 
-![Screenshot (409)](https://github.com/obula-sai/Django-React-Blog-App/assets/110908237/76bb3505-8928-4e7b-b9bc-adf53b2d53a1)
+![Screenshot (419)](https://github.com/obula-sai/Django-React-Blogify-App/assets/110908237/c65fc105-34ac-48d4-8bca-b339c0a290dc)
 
 
-![Screenshot (410)](https://github.com/obula-sai/Django-React-Blog-App/assets/110908237/9f63fd65-94da-479f-9527-056dd44e3550)
+![Screenshot (420)](https://github.com/obula-sai/Django-React-Blogify-App/assets/110908237/a732b8a2-057d-4dfd-8cbb-a1ecb8a2fe5b)
 
+![Screenshot (417)](https://github.com/obula-sai/Django-React-Blogify-App/assets/110908237/291510cb-a298-4202-acc9-0ef3aec2d507)
 
+![Screenshot (423)](https://github.com/obula-sai/Django-React-Blogify-App/assets/110908237/e37a1120-296e-4ff3-b53a-46e856d40b99)
 
-![Screenshot (411)](https://github.com/obula-sai/Django-React-Blog-App/assets/110908237/b26a4c6b-6c67-4bfe-af54-649471731e01)
-
-![Screenshot (412)](https://github.com/obula-sai/Django-React-Blog-App/assets/110908237/1ea6efa7-6bbb-4afc-9c40-51f53ab6dc5a)
-![Screenshot (413)](https://github.com/obula-sai/Django-React-Blog-App/assets/110908237/3995b86a-727e-42c0-a8fd-709ecd7cc3a4)
-
-
-
-
-
-
-
-
+![Screenshot (421)](https://github.com/obula-sai/Django-React-Blogify-App/assets/110908237/ba4c9396-0c2a-4717-9502-7332ba9c828e)
 
 =
