@@ -8,6 +8,7 @@ Blogify is a full-stack web application built with Django and ReactJS, offering 
 * User-Friendly Design
 * Create/Edit/Delete Your Posts
 * User Profile
+* Blogs Homepage
 
 
 ## Backend Setup
