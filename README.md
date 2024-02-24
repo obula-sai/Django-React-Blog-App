@@ -61,5 +61,3 @@ Blogify is a full-stack web application built with Django and ReactJS, offering 
 ![Screenshot (425)](https://github.com/obula-sai/Django-React-Blogify-App/assets/110908237/ec0f04a6-c150-4cf8-87ec-2418f2978340)
 
 
-
-=
