@@ -30,21 +30,18 @@ MyBlog is a full-stack web application built with Django and ReactJS, offering a
 1. Make sure that both Backend and Frontend Servers are running.
 2. Open your browser and navigate to [localhost:3000](localhost:3000).
 3. Go To [http://localhost:3000/login/](http://localhost:3000/login/).
-4. Login with the superuser credentials created while setting up the Backend (Step: 8)
-5. Navigate To *Dashboard -> Create New Post* ([http://localhost:3000/dashboard/create-new-post](http://localhost:3000/dashboard/create-new-post)).
-6. Fill the form to create a new post and then Submit it.
-7. The submitted post will not appear on the homescreen unless and until the admin approves it.
-8. To approve the post, go to *Dashboard -> Admin Panel -> View All Posts* and then click on *Edit* Button.
-9. Check the checkbox labelled *Published* and then submit.
-10. After the post gets published, it will be displayed on the homepage of the blog ([localhost:3000](localhost:3000)).
-11. Note: *Once the post gets published, the user can only edit the post from the Dashboard, however, the admin still can edit/delete the post from the Admin Panel*
+4. Access the login or registration page.
+5. Enter your credentials or fill in the registration form.
+6. Click the login or register button to proceed.
+7. Upon successful login or registration, you'll be redirected to Home Page
+8. Look for "Create Post" option, proceed to post creation.
+9. Input title, content, and metadata in the provided fields.
+10. Publish the post directly.
+12. After the post gets published, it will be displayed on the homepage of the blog ([localhost:3000](localhost:3000)).
+12. Edit or delete the post later from the dashboard.
 
-## Backend API Documentation
-API Documentation is generated using the default tool provided by Django Rest Framework.
 
-### View The API documentation
-1. Make sure that the Backend Server is running.
-2. Navigate to the [localhost:8000/docs/](localhost:8000/docs/)
+
 
 ## Screenshots
 ![Screenshot (408)](https://github.com/obula-sai/Django-React-Blog-App/assets/110908237/1f46f7e7-a587-4261-8d0e-718634ab61ff)
