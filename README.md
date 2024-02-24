@@ -36,7 +36,7 @@ Blogify is a full-stack web application built with Django and ReactJS, offering 
 6. Click the login or register button to proceed.
 7. Upon successful login or registration, you'll be redirected to Home Page
 8. Look for "Create Post" option, proceed to post creation.
-9. Input title, content, and metadata in the provided fields.
+9. Input title and content in the provided fields.
 10. Publish the post directly.
 12. After the post gets published, it will be displayed on the homepage of the blog ([localhost:3000](localhost:3000)).
 12. Edit or delete the post later from the dashboard.
