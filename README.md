@@ -1,7 +1,7 @@
-# MyBlog App
+# Blogify App
 ## Overview
 
-MyBlog is a full-stack web application built with Django and ReactJS, offering a seamless experience for users to create, edit, and delete their blog posts. It provides a user-friendly interface and robust backend functionality using Django Rest Framework.
+Blogify is a full-stack web application built with Django and ReactJS, offering a seamless experience for users to create, edit, and delete their blog posts. It provides a user-friendly interface and robust backend functionality using Django Rest Framework.
 
 ### Features
 * Login/Registration
