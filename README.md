@@ -7,13 +7,7 @@ The backend is completely build on Django using Django Rest Framework, while the
 * Minimal Design
 * Create/Edit/Delete Your Posts
 * User Profile
-* Comment Enable
-* Admin Panel
-	* Create/View/Edit/Delete A User
-	* Create/View/Edit/Delete A Post By Any User
-	* View/Edit/Delete All Comments In The Blog
-	* View/Edit/Delete All Comments To A Specific Post
-	* Publish/Unpublish A Post
+
 
 ## Backend Setup
 1. Clone this repository: `git clone https://github.com/dojutsu-user/Django-React-Blog.git`.
