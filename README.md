@@ -1,10 +1,11 @@
-# Django-React-Blog
-This is a "Blogging Platform" which gives all general features a blog should have.
+# MyBlog App
+## Overview
 
-The backend is completely build on Django using Django Rest Framework, while the frontend is completed using ReactJS.
+MyBlog is a full-stack web application built with Django and ReactJS, offering a seamless experience for users to create, edit, and delete their blog posts. It provides a user-friendly interface and robust backend functionality using Django Rest Framework.
+
 ### Features
 * Login/Registration
-* Minimal Design
+* User-Friendly Design
 * Create/Edit/Delete Your Posts
 * User Profile
 
